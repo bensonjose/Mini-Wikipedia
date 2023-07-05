@@ -13,7 +13,8 @@ while True:
         if query == "exit":
             break
         else:
-            result = w.summary(query, sentences=2)
+            result = w.summary(query) 
+            
             speak(result)
     except:
         speak("Result not found Enter valid input or check for spelling errors.")
