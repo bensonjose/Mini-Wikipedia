@@ -16,7 +16,7 @@ Python provides the Wikipedia module (or API) to scrap the data from the Wikiped
 
 
 
-Voila!! Have a glimpse of my project.<br>
+Voila!! Have a glimpse on my project.<br>
 
 
 
