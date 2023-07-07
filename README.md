@@ -1,6 +1,6 @@
 # Mini-Wikipedia
 Hii, I developed a Mini Wikipedia<br>
-Yeahh, As the name suggests it just small version of Wikipedia.<br>
+Yeahh, As the name suggests it's just small version of Wikipedia.<br>
 To be noted is that, it's not as efficient as i expect it to be, and i am trying to improve it.<br>
 <br>
 
