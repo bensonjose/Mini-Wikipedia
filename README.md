@@ -5,7 +5,7 @@ To be noted is that, it's not as efficient as i expect it to be, and i am trying
 <br>
 
 Working:<br>
-You can enter an input(can be your area of interest) and it will get you the information*(will fetch you a summary related to the input provided).<br>
+You can enter an input(can be your area of interest) and it will get you the information*(will fetch you a summary relevant to the input provided).<br>
 <br>
 
 The 2 main modules that I've used in this project are:<br>
